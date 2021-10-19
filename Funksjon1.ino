@@ -1,3 +1,8 @@
+/*
+lag en løsning med en knapp slik at hvis knappen er trykket inn vil en funksjon legge sammen tall a og b 
+eller at hvis knappen ikke er trykket vil en annen funksjon multiplisere  tallene
+*/
+
 
 int a = 4;
 int b = 5;
